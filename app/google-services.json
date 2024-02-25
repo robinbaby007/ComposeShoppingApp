@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "821684140415",
+    "project_id": "myshopcompose",
+    "storage_bucket": "myshopcompose.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821684140415:android:b96bae95a3c3db8533824a",
+        "android_client_info": {
+          "package_name": "com.example.myshop"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAI4VFLbRQGShXE2lHBSYwwf6rtHmp0Ric"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

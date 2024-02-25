@@ -7,5 +7,3 @@
 .externalNativeBuild
 .cxx
 /*/build/
-/app/google-services.json
-/app/google-services-db.json
